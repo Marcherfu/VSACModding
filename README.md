@@ -1,8 +1,11 @@
 # Valdis Story Modding Collection
 
 The aim of this Github Page is to share every Valdis Story: Abyssal City mods as either xDelta Patches or whatever the modder used. To use them, you must have a non-cracked version of the game (that can be found on [Steam](https://store.steampowered.com/app/252030)) and for some of them other tools (such as an [xDelta Patcher](https://kotcrab.github.io/xdelta-wasm/)).
+
 If you're interested in our modding community, feel free to join [our discord server](https://discord.gg/AJQB4hfbsX) or talk about it on [this Steam Page](https://steamcommunity.com/app/252030/discussions/0/800089396009375870/).
+
 If you want your mod to be shared here, just ask BeerMoney on the discord server.
+
 
 ## Quality of Life
  - [Better Dummy](http://marcherfu.github.io/VSACModding/Mods/Quality%20of%20Life/BetterDummy.xdelta) by BeerMoney : changes the Dummy to take true damages for better calculations.
