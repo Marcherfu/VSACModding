@@ -9,15 +9,21 @@ If you want your mod to be shared here, just ask BeerMoney on the discord server
 
 ## Modpacks
  - [Expanded Abyss v0.1](http://marcherfu.github.io/VSACModding/Mods/Modpacks/Expanded%20Abyss%20v0.1.xdelta) by Rosgath : a change to the core route progression with a bunch of great ideas working towards an expansion of the game.
+
+
 ## Quality of Life
  - [Better Dummy](http://marcherfu.github.io/VSACModding/Mods/Quality%20of%20Life/BetterDummy.xdelta) by BeerMoney : changes the Dummy to take true damages for better calculations.
  - [Revamped Library](http://marcherfu.github.io/VSACModding/Mods/Quality%20of%20Life/RevampedLibrary.xdelta) by BeerMoney : changes the position of NPCs in the Library for better navigation.
+
+
 ## Bugfixes/Unfixes
  - [Decoy Warp Unfix](https://marcherfu.github.io/VSACModding/Mods/Bugfixes%20and%20Unfixes/DecoyWarpUnfix.xdelta) by BeerMoney : enables back the Decoy Warp Glitch used by Speedrunners during the Reina's WW route era.
  - [Valdis' Better Story](https://marcherfu.github.io/VSACModding/Mods/Bugfixes%20and%20Unfixes/ValdisBetterStory.xdelta) by BeerMoney : fix 2 minor issues and 1 major issue at once :
    - Anemone's icon of the Max HP gained upon getting S-Rank is now correctly displayed.
    - Armor of the Grey Knight now shows the correct description whether you're in Arena or "Story" Mode.
    - Resetting your Skills now reset the Soul Affinity given by getting them correctly, which avoids Soul Affinity manipulation.
+
+
 ## Gameplay
  - [Cheat Mode](http://marcherfu.github.io/VSACModding/Mods/Gameplay/CheatMode.xdelta) by BeerMoney : add a tons of resources to make the game way easier.
  - [Dismantle Weapon](http://marcherfu.github.io/VSACModding/Mods/Gameplay/DismantleWeapon.xdelta) by BeerMoney : adds a third item to Mesmer that allows the player to revert back to level 1 the currently equipped weapon, refunding every resources with it.
