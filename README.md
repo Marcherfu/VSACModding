@@ -1,6 +1,6 @@
 # Valdis Story Modding Collection
 
-The aim of this Github Page is to share every Valdis Story: Abyssal City mods as either xDelta Patches or whatever the modder used. To use them, you must have a non-cracked version of the game (that can be found on [Steam](https://store.steampowered.com/app/252030)) and for some of them other tools (such as an [xDelta Patcher](https://kotcrab.github.io/xdelta-wasm/)).
+The aim of this Github Page is to share every Valdis Story: Abyssal City mods as either xDelta Patches or whatever the modder used. To use them, you must have a non-cracked version of the game (that can be found on [Steam](https://store.steampowered.com/app/252030)) and for some of them other tools (such as an [xDelta Patcher](https://kotcrab.github.io/xdelta-wasm/)). Take your data.win file, the xDelta patch, apply it and there you go, mod installed !
 
 If you're interested in our modding community, feel free to join [our discord server](https://discord.gg/AJQB4hfbsX) or talk about it on [this Steam Page](https://steamcommunity.com/app/252030/discussions/0/800089396009375870/).
 
