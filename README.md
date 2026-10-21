@@ -7,6 +7,8 @@ If you're interested in our modding community, feel free to join [our discord se
 If you want your mod to be shared here, just ask BeerMoney on the discord server.
 
 
+## Modpacks
+ - [Expanded Abyss v0.1](http://marcherfu.github.io/VSACModding/Mods/Modpacks/Expanded%20Abyss%20v0.1.xdelta) by Rosgath : a change to the core route progression with a bunch of great ideas working towards an expansion of the game.
 ## Quality of Life
  - [Better Dummy](http://marcherfu.github.io/VSACModding/Mods/Quality%20of%20Life/BetterDummy.xdelta) by BeerMoney : changes the Dummy to take true damages for better calculations.
  - [Revamped Library](http://marcherfu.github.io/VSACModding/Mods/Quality%20of%20Life/RevampedLibrary.xdelta) by BeerMoney : changes the position of NPCs in the Library for better navigation.
