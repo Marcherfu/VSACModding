@@ -8,7 +8,7 @@ If you want your mod to be shared here, just ask BeerMoney on the discord server
 
 
 ## Modpacks
- - [Expanded Abyss v0.1](http://marcherfu.github.io/VSACModding/Mods/Modpacks/Expanded%20Abyss%20v0.1.xdelta) by Rosgath : a change to the core route progression with a bunch of great ideas working towards an expansion of the game.
+ - [Expanded Abyss v0.2](http://marcherfu.github.io/VSACModding/Mods/Modpacks/Expanded%20Abyss%20v0.2.xdelta) by Rosgath : a change to the core route progression with a bunch of great ideas working towards an expansion of the game.
 
 
 ## Quality of Life
